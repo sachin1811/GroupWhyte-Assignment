@@ -1,0 +1,32 @@
+#BgColor{
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+
+
+.form-section{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  vertical-align: middle;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+
+.view-port{
+height: 100vh;
+width: 100wh;
+}
+.Sub-btn{
+  position: initial;
+  margin-top: 10px;
+  margin-left: 440px;
+  right: 0%;
+  background: #415eff;
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 0.4rem;
+  display: inline-block;
+  border: none;
+}
